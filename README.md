@@ -1,6 +1,6 @@
 # SOBRE MIM
 - 👋 olá meu nome é @Gabrieldoidao9
-- 👀 eu estou interessado em aprender
+- 👀 eu estou interessado em aprender linguagens de programação
 - 🌻aprendi recentemente a programar 
 
 <!---
